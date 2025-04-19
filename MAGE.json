@@ -1,0 +1,1097 @@
+[
+  {
+    "hero": "Cecilion",
+    "skin": [
+      {
+        "name": "Embrace of Night",
+        "script": "1",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232"
+      },
+      {
+        "name": "Wisteria Count",
+        "script": "2",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero912-portrait.png/revision/latest?cb=20220525170158"
+      },
+      {
+        "name": "The Illusionist",
+        "script": "3",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest?cb=20220525170200",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Phantom Count",
+        "script": "4",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero914-portrait.png/revision/latest?cb=20220525170201",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844"
+      },
+      {
+        "name": "Stargazer",
+        "script": "5",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero915-portrait.png/revision/latest?cb=20220525170202",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Crimson Wings",
+        "script": "6",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Hisoka Morow",
+        "script": "154",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Cecilion%20HxH.png"
+      }
+    ]
+  },
+  {
+    "hero": "Pharsa",
+    "skin": [
+      {
+        "name": "Wings of Vengeance",
+        "script": "7",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20220525165338"
+      },
+      {
+        "name": "Peafowl's Dance",
+        "script": "8",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest?cb=20220525165342",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Empress Phoenix",
+        "script": "9",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Indigo Aviatrix",
+        "script": "10",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero524-portrait.png/revision/latest?cb=20220525165343"
+      },
+      {
+        "name": "Samba Muse",
+        "script": "11",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero527-portrait.png/revision/latest?cb=20220525165346",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Peony Bloom",
+        "script": "12",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Hierophant",
+        "script": "13",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348"
+      },
+      {
+        "name": "Neon Shingetsu",
+        "script": "138",
+        "img": "https://github.com/lanz132/Img/raw/main/pharsa.png",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Neobeast",
+        "script": "180",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/Pharsa%20neobeast.png"
+      }
+    ]
+  },
+  {
+    "hero": "Alice",
+    "skin": [
+      {
+        "name": "Queen of Blood",
+        "script": "14",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20220525164338"
+      },
+      {
+        "name": "Divine Owl",
+        "script": "15",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest?cb=20220525164350",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Wizardy Teacher",
+        "script": "16",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Spirit Woman",
+        "script": "17",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest?cb=20220525164349"
+      },
+      {
+        "name": "Steam Glidere",
+        "script": "18",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest?cb=20220525164352",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Darknet Temptress",
+        "script": "169",
+        "img": "https://github.com/Hiro161123/Mage/raw/main/Alice%20epic.png"
+      }
+    ]
+  },
+  {
+    "hero": "Valir",
+    "skin": [
+      {
+        "name": "Son of Flames",
+        "script": "19",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png/revision/latest?cb=20220525165453"
+      },
+      {
+        "name": "Dictator",
+        "script": "20",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest?cb=20220525165459",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Demonlord",
+        "script": "21",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Shikigami Summoner",
+        "script": "22",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest?cb=20220525165458",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Draconic Flame",
+        "script": "23",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Dragon_Tamer_Skin_Tag.png/revision/latest/thumbnail-down/width/48/height/20?cb=20220714101554"
+      },
+      {
+        "name": "Infernal Blaze",
+        "script": "24",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+      },
+      {
+        "name": "Phoenix Ikki",
+        "script": "25",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest?cb=20220915121951",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cb=20220915140211"
+      },
+      {
+        "name": "Leo Ikki",
+        "script": "26",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cb=20220915140211"
+      },
+      {
+        "name": "Kyo Kusanagi",
+        "script": "168",
+        "img": "https://github.com/Hiro161123/Mage/raw/main/Valir%20kof%20'97.png"
+      }
+    ]
+  },
+  {
+    "hero": "Chang'e",
+    "skin": [
+      {
+        "name": "Moon Palace Immortal",
+        "script": "27",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Moon_Palace_Immortal.jpg/revision/latest/scale-to-width-down/250?cb=20211206014743"
+      },
+      {
+        "name": "Crimson Moon",
+        "script": "28",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Crimson_Moon.jpg/revision/latest/scale-to-width-down/250?cb=20211206014720",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Strawberry Parfait",
+        "script": "29",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Strawberry_Parfait.jpg/revision/latest/scale-to-width-down/250?cb=20201022085804",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Floral Elfo",
+        "script": "30",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Floral_Elfo.jpg/revision/latest/scale-to-width-down/250?cb=20211206014727",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Lunar Magic",
+        "script": "31",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Lunar_Magic.jpg/revision/latest/scale-to-width-down/250?cb=20211206014735",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Vine Cradle",
+        "script": "32",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Vine_Cradle.jpg/revision/latest/scale-to-width-down/250?cb=20220115052831",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Moon Artist",
+        "script": "33",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Moon_Artist.jpg/revision/latest/scale-to-width-down/250?cb=20220217001724",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Sanrio_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220217000457"
+      },
+      {
+        "name": "New Moon",
+        "script": "34",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg-1-L80MOkO2y1IpcWv-JxLTxRaV1aAA35Q&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20220113105315"
+      },
+      {
+        "name": "Tech Tensai",
+        "script": "151",
+        "img": "https://github.com/lanz132/Img/raw/main/changeaspi.jpg"
+      }
+    ]
+  },
+  {
+    "hero": "Vale",
+    "skin": [
+      {
+        "name": "Windtalker",
+        "script": "35",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero661-portrait.png/revision/latest?cb=20220525165643"
+      },
+      {
+        "name": "Cerulean Winds",
+        "script": "36",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest?cb=20220525165646"
+      },
+      {
+        "name": "Kannagi",
+        "script": "37",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest?cb=20220525165648",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Blizzard Storm",
+        "script": "38",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/thumbnail-down/width/69/height/20?cb=20230319055038"
+      },
+      {
+        "name": "Soaring Devata",
+        "script": "39",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest?cb=20220525165649",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Supernal Tempest",
+        "script": "40",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest?cb=20220525165650",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Keeper of the Winds",
+        "script": "41",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Concerto of Light",
+        "script": "178",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Vale%20anualstar.png"
+      },
+      {
+        "name": "Gaara",
+        "script": "182",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/vale%20x%20garaa.png"
+      }
+    ]
+  },
+  {
+    "hero": "Kadita",
+    "skin": [
+      {
+        "name": "Ocean Goddess",
+        "script": "42",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Ocean_Goddess.jpg/revision/latest/scale-to-width-down/250?cb=20200912121535"
+      },
+      {
+        "name": "White Robin",
+        "script": "43",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/White_Robin.jpg/revision/latest/scale-to-width-down/250?cb=20200912121558",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Atlantean Princess",
+        "script": "44",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Atlantean_Princess.jpg/revision/latest/scale-to-width-down/250?cb=20200912121548"
+      },
+      {
+        "name": "Hydromancer",
+        "script": "137",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909"
+      },
+      {
+        "name": "Heart of the Sea",
+        "script": "171",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_kadita.jpg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Create_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20230915123927"
+      }
+    ]
+  },
+  {
+    "hero": "Vexana",
+    "skin": [
+      {
+        "name": "Shimmer of Hope",
+        "script": "45",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20220714134445"
+      },
+      {
+        "name": "Lucent Beacon",
+        "script": "46",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest?cb=20220714134500"
+      },
+      {
+        "name": "Cursed Shackle",
+        "script": "47",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest?cb=20220604034152",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/S12_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210522142212"
+      },
+      {
+        "name": "Sanguine Rose",
+        "script": "48",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest?cb=20220714134505",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20220216162258"
+      },
+      {
+        "name": "Circus Magician",
+        "script": "49",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "The Sun Empress",
+        "script": "139",
+        "img": "https://github.com/lanz132/Img/raw/main/vexana.jpeg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Twisted Fairy Tail",
+        "script": "164",
+        "img": "https://raw.githubusercontent.com/Hiro161123/Mage/main/Vexana%20zenith.png"
+      }
+    ]
+  },
+  {
+    "hero": "Esmeralda",
+    "skin": [
+      {
+        "name": "Astrologer",
+        "script": "50",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20220525165930"
+      },
+      {
+        "name": "Blazing Shadow",
+        "script": "51",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest?cb=20220525165937",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Ruddy Dusk",
+        "script": "52",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero812-portrait.png/revision/latest?cb=20220525165933"
+      },
+      {
+        "name": "Poison Vine",
+        "script": "53",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest?cb=20220525165934",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Lady Thief",
+        "script": "54",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero814-portrait.png/revision/latest?cb=20220525165935",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844"
+      },
+      {
+        "name": "Cleopatra",
+        "script": "55",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest?cb=20220525165936",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "The Foreseer",
+        "script": "56",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/thumbnail-down/width/69/height/20?cb=20230319055038"
+      },
+      {
+        "name": "Light Envoy",
+        "script": "57",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest?cb=20220525165939",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Astral Muse",
+        "script": "165",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/esm.jpg"
+      }
+    ]
+  },
+  {
+    "hero": "Eudora",
+    "skin": [
+      {
+        "name": "Lightning Weaver",
+        "script": "143",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20240123234152"
+      },
+      {
+        "name": "Christmas Carnival",
+        "script": "144",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest?cb=20220525164632"
+      },
+      {
+        "name": "Cosmic Voyage",
+        "script": "148",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero157-portrait.png/revision/latest?cb=20220724063929"
+      },
+      {
+        "name": "Atomic Pop",
+        "script": "149",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651"
+      }
+    ]
+  },
+  {
+    "hero": "Lylia",
+    "skin": [
+      {
+        "name": "Little Wizard",
+        "script": "58",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Little_Witch.jpg/revision/latest/scale-to-width-down/250?cb=20211207064453"
+      },
+      {
+        "name": "Star Student",
+        "script": "59",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Star_Student.jpg/revision/latest/scale-to-width-down/250?cb=20211207064506",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Haunted Doll",
+        "script": "60",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Haunted_Doll.jpg/revision/latest/scale-to-width-down/250?cb=20211207064445",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+      },
+      {
+        "name": "Future Star",
+        "script": "61",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Future_Star.jpg/revision/latest/scale-to-width-down/250?cb=20211207064437",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Neobeast",
+        "script": "134",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76lDAh12d4y4B-VMxTzCjGTu30PU1_MG_cQ&usqp=CAU"
+      },
+      {
+        "name": "Magitech Arsenal",
+        "script": "167",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/lyl.jpg"
+      }
+    ]
+  },
+  {
+    "hero": "Harith",
+    "skin": [
+      {
+        "name": "Time Traveler",
+        "script": "62",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png/revision/latest?cb=20220525165751"
+      },
+      {
+        "name": "Stardust",
+        "script": "63",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "EVOS Legends",
+        "script": "64",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Lightborn - Inspirer",
+        "script": "65",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest?cb=20220525165757",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856"
+      },
+      {
+        "name": "Fashion Expert",
+        "script": "66",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero734-portrait.png/revision/latest?cb=20220525165756",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/515_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064424"
+      },
+      {
+        "name": "Psychic",
+        "script": "67",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20230212035440",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Christmas Carnival",
+        "script": "142",
+        "img": "https://raw.githubusercontent.com/kinAgonace/Img/main/IMG_20231224_103357.jpg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+      },
+      {
+        "name": "Killua Zoldyck",
+        "script": "155",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Harith%20HxH.png"
+      }
+    ]
+  },
+  {
+    "hero": "Cyclops",
+    "skin": [
+      {
+        "name": "Starsoul Magician",
+        "script": "68",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20220525165020"
+      },
+      {
+        "name": "Exorcist",
+        "script": "69",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest?cb=20220525165023"
+      },
+      {
+        "name": "Super Adventurer",
+        "script": "70",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest?cb=20220525165024",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "S.A.B.E.R. Enforcer",
+        "script": "71",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest?cb=20220525165025",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Master Yoda",
+        "script": "72",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20211212004634"
+      },
+      {
+        "name": "Straw Doll",
+        "script": "73",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cb=20220525165032",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+      },
+      {
+        "name": "Yokai Warlock",
+        "script": "74",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      }
+    ]
+  },
+  {
+    "hero": "Lunox",
+    "skin": [
+      {
+        "name": "Twilight Goddess",
+        "script": "75",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705"
+      },
+      {
+        "name": "Cosmic Harmony",
+        "script": "76",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest?cb=20220525165714",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Ash Blossom",
+        "script": "77",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest?cb=20220525165715",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Butterfly Seraphim",
+        "script": "78",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Libra",
+        "script": "79",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20220525165716",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+      },
+      {
+        "name": "Eyes of Eternity",
+        "script": "80",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest?cb=20220525165719",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Dawn Revelation",
+        "script": "81",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest?cb=20220525165720",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Divine Goddess",
+        "script": "82",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+      },
+      {
+        "name": "Nature's Harmony",
+        "script": "172",
+        "img": "https://github.com/Hiro161123/Mage/raw/main/Lunox%20elite.png"
+      }
+    ]
+  },
+  {
+    "hero": "Zhask",
+    "skin": [
+      {
+        "name": "The King of Swarms",
+        "script": "83",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20220525165318"
+      },
+      {
+        "name": "Extraterrestrial",
+        "script": "84",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Cancer",
+        "script": "85",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+      },
+      {
+        "name": "Bone Flamen",
+        "script": "86",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20220216162258"
+      },
+      {
+        "name": "Death's Shadow",
+        "script": "177",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/Zhask%20starlight.png"
+      }
+    ]
+  },
+  {
+    "hero": "Odette",
+    "skin": [
+      {
+        "name": "Swan Princess",
+        "script": "87",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233"
+      },
+      {
+        "name": "Virgo",
+        "script": "88",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+      },
+      {
+        "name": "Christmas Carnival",
+        "script": "89",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero463-portrait.png/revision/latest?cb=20220525165237",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+      },
+      {
+        "name": "Mermaid Princess",
+        "script": "90",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Auspicious Charm",
+        "script": "91",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20220113105315"
+      },
+      {
+        "name": "Sage of the Currents",
+        "script": "92",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cb=20230514163407"
+      },
+      {
+        "name": "Wisdom of the Stars",
+        "script": "175",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/odette_aug.jpg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      }
+    ]
+  },
+  {
+    "hero": "Kagura",
+    "skin": [
+      {
+        "name": "Onmyouji Master",
+        "script": "93",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20220525164837"
+      },
+      {
+        "name": "Soryu Maiden",
+        "script": "94",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Summer Festival",
+        "script": "95",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest?cb=20220628175959",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205"
+      },
+      {
+        "name": "Cherry Witch",
+        "script": "96",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest?cb=20220525164841",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Rainy Walk",
+        "script": "97",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Water Lily",
+        "script": "98",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20211211020157"
+      },
+      {
+        "name": "Exorcist Kagura",
+        "script": "99",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143"
+      },
+      {
+        "name": "Beyond the Clouds",
+        "script": "135",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Clouds_Skin_Tag.png/revision/latest?cb=20230915123926"
+      },
+      {
+        "name": "Jade Blossom",
+        "script": "176",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/Kagura%20epic%20-%20blosom.png"
+      }
+    ]
+  },
+  {
+    "hero": "Harley",
+    "skin": [
+      {
+        "name": "Mage Genius",
+        "script": "100",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20220525165200"
+      },
+      {
+        "name": "Referee",
+        "script": "101",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest?cb=20220525165204",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Royal Magister",
+        "script": "102",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest?cb=20220525165203",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Great Inventor",
+        "script": "103",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest?cb=20220525165205",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "V E.N.O.M. Octopus",
+        "script": "104",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest?cb=20220525165207",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/thumbnail-down/width/34/height/20?cb=20220822150336"
+      },
+      {
+        "name": "Dream Caster",
+        "script": "105",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb=20220525165207",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Starcaster",
+        "script": "106",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest?cb=20220915122657",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Star Magician",
+        "script": "166",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/har.jpg"
+      }
+    ]
+  },
+  {
+    "hero": "Aurora",
+    "skin": [
+      {
+        "name": "Frost Oracle",
+        "script": "107",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Frost_Oracle.jpg/revision/latest/scale-to-width-down/250?cb=20211231054901"
+      },
+      {
+        "name": "Heartbreak Empress",
+        "script": "108",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Heartbreak_Empress.jpg/revision/latest/scale-to-width-down/250?cb=20211231054919",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Foxy Lady",
+        "script": "109",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Foxy_Lady_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20220213165714",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20220113105315"
+      },
+      {
+        "name": "Kula Diamond",
+        "script": "110",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Kula_Diamond.jpg/revision/latest/scale-to-width-down/250?cb=20210528141510",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+      },
+      {
+        "name": "Aquarius",
+        "script": "111",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Aquarius.jpg/revision/latest/scale-to-width-down/250?cb=20211231054836",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+      },
+      {
+        "name": "Veil of the Celestials",
+        "script": "173",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/aurora%208-2-24.jpg"
+      }
+    ]
+  },
+  {
+    "hero": "Gord",
+    "skin": [
+      {
+        "name": "Professor of the Mystics",
+        "script": "113",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cb=20220525164812"
+      },
+      {
+        "name": "Christmas Carnival",
+        "script": "114",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero233-portrait.png/revision/latest?cb=20220525164817",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+      },
+      {
+        "name": "No.1 Controller",
+        "script": "115",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest?cb=20220525164819",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Annual_Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20211211020157"
+      },
+      {
+        "name": "Conqueror",
+        "script": "116",
+        "img": "https://raw.githubusercontent.com/lanz132/NEWIMG/main/gordlegend.jpg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+      },
+      {
+        "name": "New Baron",
+        "script": "117",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero236-portrait.png/revision/latest?cb=20220525164820",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/S21_Skin_Tag.png/revision/latest?cb=20211201153812"
+      },
+      {
+        "name": "Cyber Hacker",
+        "script": "174",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/gord_aug.jpg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+      },
+      {
+        "name": "Imperator Vitalis",
+        "script": "183",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/gord%20starlight.png"
+      }
+    ]
+  },
+  {
+    "hero": "Lou Yi",
+    "skin": [
+      {
+        "name": "Yin-yang Geomancer",
+        "script": "118",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest?cb=20220525170241"
+      },
+      {
+        "name": "Ying-yang Mage",
+        "script": "119",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero962-portrait.png/revision/latest?cb=20220525170244"
+      },
+      {
+        "name": "Tenko",
+        "script": "120",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero963-portrait.png/revision/latest?cb=20220525170246",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Dawning Fortune",
+        "script": "121",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest?cb=20221111133616",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20220113105315"
+      },
+      {
+        "name": "Siren Priestess",
+        "script": "122",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero965-portrait.png/revision/latest?cb=20220525170248",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Elysium Guardian",
+        "script": "123",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Oracle of Sol",
+        "script": "124",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest?cb=20230514163426",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      }
+    ]
+  },
+  {
+    "hero": "Yve",
+    "skin": [
+      {
+        "name": "Astrowarden",
+        "script": "125",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20220920092448"
+      },
+      {
+        "name": "Forest Hymn",
+        "script": "126",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest?cb=20220525170334"
+      },
+      {
+        "name": "Ruin Protectress",
+        "script": "127",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      }
+    ]
+  },
+  {
+    "hero": "Valentina",
+    "skin": [
+      {
+        "name": "Prophetess of the Night",
+        "script": "128",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png/revision/latest?cb=20220525171648"
+      },
+      {
+        "name": "Twilight Charmer",
+        "script": "129",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb=20220525170523"
+      },
+      {
+        "name": "Archmagister",
+        "script": "130",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1103-portrait.png/revision/latest?cb=20220804115341",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Cyber Agent",
+        "script": "140",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb=20230212035444",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Calestial Judicator",
+        "script": "141",
+        "img": "https://raw.githubusercontent.com/lanz132/NEWIMG/main/Valentina%20col.jpg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Dark Nexus",
+        "script": "170",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_valentina.jpg",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20230915123939"
+      }
+    ]
+  },
+  {
+    "hero": "Xavier",
+    "skin": [
+      {
+        "name": "Defier of Light",
+        "script": "131",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250"
+      },
+      {
+        "name": "Verdict of Light",
+        "script": "132",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest?cb=20220525170636"
+      },
+      {
+        "name": "Satoru Gojo",
+        "script": "133",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb=20230212035449",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20230214083549"
+      },
+      {
+        "name": "Beyond the Clouds",
+        "script": "136",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb=20230805043928",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Clouds_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20230915123926"
+      },
+      {
+        "name": "Hardlight Artificer",
+        "script": "179",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Xavier%20starlight.png"
+      }
+    ]
+  },
+  {
+    "hero": "Novaria",
+    "skin": [
+      {
+        "name": "Star Rebel",
+        "script": "162",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429"
+      },
+      {
+        "name": "Sugar Glaze",
+        "script": "163",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/novaria91.jpg"
+      },
+      {
+        "name": "Dragonsworn",
+        "script": "181",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/novaria%20collector.png"
+      }
+    ]
+  },
+  {
+    "hero": "Zhuxin",
+    "skin": [
+      {
+        "name": "Beacon of Spirits",
+        "script": "180",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png/revision/latest?cb=20241021140847"
+      },
+      {
+        "name": "Emberwisp Mystic",
+        "script": "181",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Zhuxin%20starlight.png"
+      }
+    ]
+  }
+]

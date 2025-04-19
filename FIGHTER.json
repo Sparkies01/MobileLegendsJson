@@ -1,0 +1,1558 @@
+[
+  {
+    "hero": "Chou",
+    "skin": [
+      {
+        "name": "Kung-Fu Boy",
+        "script": "1.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+        "tag": "null"
+      },
+      {
+        "name": "Go Ballistic",
+        "script": "2.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb=20220525164855",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Hip-hop Boy",
+        "script": "3.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cb=20220719071254",
+        "tag": "up"
+      },
+      {
+        "name": "Furious Tiger",
+        "script": "4.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cb=20220525164853",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "King of Muay Thai",
+        "script": "5.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb=20220525164852",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Dragon Boy",
+        "script": "6.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Iori Yagami",
+        "script": "7.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+      },
+      {
+        "name": "Thunder Fist",
+        "script": "8.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/thumbnail-down/width/69/height/20?cb=20230319055038"
+      },
+      {
+        "name": "S.T.U.N",
+        "script": "9.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235941"
+      },
+      {
+        "name": "Dragon Shiryu",
+        "script": "10.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cb=20220915140211"
+      },
+      {
+        "name": "Libra Shiryu",
+        "script": "11.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cb=20220915140211"
+      },
+      {
+        "name": "Echo",
+        "script": "195.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Aldous",
+    "skin": [
+      {
+        "name": "Contractor",
+        "script": "12.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20220525165611",
+        "tag": "null"
+      },
+      {
+        "name": "Red Mantle",
+        "script": "77.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest?cb=20220525165619",
+        "tag": "null"
+      },
+      {
+        "name": "The Insentient",
+        "script": "13.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest?cb=20220525165621",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "King of Supremacy",
+        "script": "14.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/M1_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203123912"
+      },
+      {
+        "name": "Blazing Force",
+        "script": "15.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest?cb=20220525165623",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220714101551"
+      },
+      {
+        "name": "Death",
+        "script": "16.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest?cb=20220525165620",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Realm Watcher",
+        "script": "17.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Starscream",
+        "script": "18.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cb=20220217000003"
+      },
+      {
+        "name": "MistBenders",
+        "script": "222.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaMBbBiYUgl2MRoqRMZe1yGPlRJjupTp1sw&usqp=CAU",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Guinevere",
+    "skin": [
+      {
+        "name": "Ms.Violet",
+        "script": "19.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20220525165850",
+        "tag": "null"
+      },
+      {
+        "name": "Lotus",
+        "script": "20.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest?cb=20220525165909",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Sakura Wishes",
+        "script": "21.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cb=20220525165920",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Amethyst Dance",
+        "script": "22.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest?cb=20220525165913",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Athena Asamiya",
+        "script": "23.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+      },
+      {
+        "name": "Lady Crane",
+        "script": "24.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest?cb=20220525165916",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Fleur de Bleau",
+        "script": "25.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest?cb=20220525165903",
+        "tag": "null"
+      },
+      {
+        "name": "Summer Breeze",
+        "script": "26.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest?cb=20220525165923",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205"
+      },
+      {
+        "name": "Psion of Tomorrow",
+        "script": "27.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+      }
+    ]
+  },
+  {
+    "hero": "Badang",
+    "skin": [
+      {
+        "name": "Tribal Warrior",
+        "script": "28.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+        "tag": "null"
+      },
+      {
+        "name": "Sunsanoo",
+        "script": "29.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest?cb=20220525165819",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Fist of Zen",
+        "script": "30.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Leo",
+        "script": "31.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+      },
+      {
+        "name": "Sagittarius Seiya",
+        "script": "32.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest?cb=20220915122047",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cb=20220915140211"
+      },
+      {
+        "name": "Pegasus Seiya",
+        "script": "33.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cb=20220915140211"
+      }
+    ]
+  },
+  {
+    "hero": "Alucard",
+    "skin": [
+      {
+        "name": "Demin Hunter",
+        "script": "34.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20220525164426",
+        "tag": "null"
+      },
+      {
+        "name": "Obsidian Blade",
+        "script": "35.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb=20220525164442",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+      },
+      {
+        "name": "Lightborn - Striker",
+        "script": "36.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856"
+      },
+      {
+        "name": "Child of the fall",
+        "script": "37.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Romantic Fantasy",
+        "script": "38.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb=20220525164441",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844"
+      },
+      {
+        "name": "Viscount",
+        "script": "39.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb=20220525164439",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Fiery Inferno",
+        "script": "40.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero073-portrait.png/revision/latest?cb=20220525164437",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/S2_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20210522142201"
+      },
+      {
+        "name": "Obi-wan Kenobi",
+        "script": "41.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20211212004634"
+      },
+      {
+        "name": "Demon's Bane",
+        "script": "235.0",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/Alucard%20special.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Zilong",
+    "skin": [
+      {
+        "name": "Spear of Dragon",
+        "script": "42.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20220525164636",
+        "tag": "null"
+      },
+      {
+        "name": "Elite Warrior",
+        "script": "777.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest?cb=20220525164645",
+        "tag": "null"
+      },
+      {
+        "name": "Loyal Spear",
+        "script": "43.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest?cb=20220525164652",
+        "tag": "null"
+      },
+      {
+        "name": "Changbanpo Commander",
+        "script": "44.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest?cb=20220525164649",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Chrismas Carnival",
+        "script": "45.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero167-portrait.png/revision/latest?cb=20220525164650",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+      },
+      {
+        "name": "Blazing Lancer",
+        "script": "46.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero165-portrait.png/revision/latest?cb=20220525164648",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Estern Warrior",
+        "script": "47.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero164-portrait.png/revision/latest?cb=20220525164647",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Glorious General",
+        "script": "48.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero163-portrait.png/revision/latest?cb=20220525164646",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Summer Waves",
+        "script": "49.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205"
+      },
+      {
+        "name": "Empyrean Paladin",
+        "script": "50.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest?cb=20220602112648",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Storm Rider",
+        "script": "51.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101611-portrait.png/revision/latest?cb=20220602112731",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/515_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064424"
+      },
+      {
+        "name": "Dragon of Prosperity",
+        "script": "209.0",
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/Zilong%20lunar%20fest.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Alpha",
+    "skin": [
+      {
+        "name": "Blade of Enmity",
+        "script": "52.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20220525164911",
+        "tag": "null"
+      },
+      {
+        "name": "Fierce Dragon",
+        "script": "53.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero283-portrait.png/revision/latest?cb=20220525164920",
+        "tag": "null"
+      },
+      {
+        "name": "Sea Gladiator",
+        "script": "54.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest?cb=20220525164921",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/S6_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20210522142206"
+      },
+      {
+        "name": "Onimusha Commander",
+        "script": "55.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest?cb=20220525164918",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Crimson Warrior",
+        "script": "56.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest?cb=20220525164922",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "General Void",
+        "script": "57.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest?cb=20220525164923",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220217000011"
+      },
+      {
+        "name": "Star Enforcer",
+        "script": "196.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest?cb=20230805043831",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Mecha-King Perseus",
+        "script": "214.0",
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/Alpha%20collector.png",
+        "tag": "null"
+      },
+      {
+        "name": "Revenant of Roses",
+        "script": "234.0",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/Alpha%20legend.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Ruby",
+    "skin": [
+      {
+        "name": "Little Red Hood",
+        "script": "58.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20220525164924",
+        "tag": "null"
+      },
+      {
+        "name": "Hidden Orchid Butterfly",
+        "script": "59.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest?cb=20220525164934",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Edelweiss",
+        "script": "60.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Lady Zombie",
+        "script": "61.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Pirate Parrot",
+        "script": "62.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest?cb=20220525164937",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Mecha Maiden",
+        "script": "63.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220113105226"
+      },
+      {
+        "name": "Prismatic Plume",
+        "script": "64.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Soul Reaper",
+        "script": "213.0",
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/Ruby%20special.png",
+        "tag": "null"
+      },
+      {
+        "name": "Crescent Dervish",
+        "script": "231.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Ruby%20golden1.png",
+        "tag": "null"
+      },
+      {
+        "name": "Neon Edge",
+        "script": "232.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Ruby%20golden2.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Minsitthar",
+    "skin": [
+      {
+        "name": "Courageous Warrior",
+        "script": "65.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+        "tag": "null"
+      },
+      {
+        "name": "King of War",
+        "script": "66.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest?cb=20230317100603",
+        "tag": "null"
+      },
+      {
+        "name": "Gilded King",
+        "script": "67.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero743-portrait.png/revision/latest?cb=20220525165803",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Crimson Leon",
+        "script": "68.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero744-portrait.png/revision/latest?cb=20230623125755",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Soul Invictus",
+        "script": "218.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20240131092447",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      }
+    ]
+  },
+  {
+    "hero": "Dyrroth",
+    "skin": [
+      {
+        "name": "Prince of the Abyss",
+        "script": "69.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20220525170022",
+        "tag": "null"
+      },
+      {
+        "name": "Ruins Scavenger",
+        "script": "70.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Orochi Chris",
+        "script": "71.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+      },
+      {
+        "name": "Scalebore",
+        "script": "72.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+        "tag": "null"
+      },
+      {
+        "name": "V.E.N.O.M Cobra",
+        "script": "73.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero855-portrait.png/revision/latest?cb=20220525170036",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/V.E.N.O.M._Skin_Tag.png/revision/latest/thumbnail-down/width/34/height/20?cb=20220822150336"
+      },
+      {
+        "name": "Nakara Flame",
+        "script": "74.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Gon Freecss",
+        "script": "222.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Dyrroth%20HxH.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Jawhead",
+    "skin": [
+      {
+        "name": "Steal Sweetheart",
+        "script": "75.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20220525165409",
+        "tag": "null"
+      },
+      {
+        "name": "Foo Quaterback",
+        "script": "76.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero544-portrait.png/revision/latest?cb=20220525165414",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Space Explorer",
+        "script": "77.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero543-portrait.png/revision/latest?cb=20220525165413",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "The Nutcracker",
+        "script": "78.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero545-portrait.png/revision/latest?cb=20220525165416",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Samurai Mech",
+        "script": "79.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Candy Bear",
+        "script": "80.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero547-portrait.png/revision/latest?cb=20220525165418",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Cyber Ranger",
+        "script": "81.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210826073827"
+      },
+      {
+        "name": "Season 33",
+        "script": "216.0",
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/jawhead%20s33.jpg",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Thamuz",
+    "skin": [
+      {
+        "name": "Lord Lava",
+        "script": "144.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
+        "tag": "null"
+      },
+      {
+        "name": "Liquid Fire",
+        "script": "145.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest?cb=20220525165749",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Lord of Wrait",
+        "script": "146.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest?cb=20220525165748",
+        "tag": "null"
+      },
+      {
+        "name": "Abyssal Repear",
+        "script": "147.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero724-portrait.png/revision/latest?cb=20220525165749",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "General Kai",
+        "script": "148.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
+        "tag": "null"
+      },
+      {
+        "name": "Sanctified Flame",
+        "script": "149.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      }
+    ]
+  },
+  {
+    "hero": "Leomord",
+    "skin": [
+      {
+        "name": "Storm Sword",
+        "script": "150.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+        "tag": "null"
+      },
+      {
+        "name": "Hell Knight",
+        "script": "151.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest?cb=20220628173711",
+        "tag": "null"
+      },
+      {
+        "name": "Frostborn Paladin",
+        "script": "152.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero673-portrait.png/revision/latest?cb=20220525165656",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Triumph - Eagle",
+        "script": "153.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest?cb=20220525165657",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Jack-o'-lantern",
+        "script": "154.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest?cb=20220525165738",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+      },
+      {
+        "name": "Inferno Soul",
+        "script": "155.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+      },
+      {
+        "name": "Shadow Knight",
+        "script": "156.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero677-portrait.png/revision/latest?cb=20221216103141",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220217000011"
+      },
+      {
+        "name": "Diavel V4 Rider",
+        "script": "218.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/Leomord%20ducati.png",
+        "tag": "null"
+      },
+      {
+        "name": "Nightmare Count",
+        "script": "237.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest?cb=20250307123904",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+      }
+    ]
+  },
+  {
+    "hero": "Argus",
+    "skin": [
+      {
+        "name": "Dark Angel",
+        "script": "157.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+        "tag": "null"
+      },
+      {
+        "name": "Dark Draconic",
+        "script": "158.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest?cb=20220525165230",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Catastrophe",
+        "script": "159.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest?cb=20220525165231",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Darth Vader",
+        "script": "160.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest?cb=20220525165232",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20211212004634"
+      },
+      {
+        "name": "Light of Dawn",
+        "script": "161.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest?cb=20220525165229",
+        "tag": "null"
+      },
+      {
+        "name": "Winged Nightmare",
+        "script": "162.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest?cb=20221118130656",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/S27_Skin_Tag.png/revision/latest/thumbnail-down/width/38/height/20?cb=20230214083559"
+      }
+    ]
+  },
+  {
+    "hero": "Sun",
+    "skin": [
+      {
+        "name": "Monkey King",
+        "script": "163.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20220525164858",
+        "tag": "null"
+      },
+      {
+        "name": "Rock Star",
+        "script": "164.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest?cb=20220525164903",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Street Legend",
+        "script": "165.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20220525164904",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Battle of Buddha",
+        "script": "166.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest?cb=20220525164902",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Simian Curse",
+        "script": "167.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest?cb=20220525164905",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Spring Blessings",
+        "script": "168.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest?cb=20220525164910",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20220113105315"
+      },
+      {
+        "name": "Wicked Flames",
+        "script": "169.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      }
+    ]
+  },
+  {
+    "hero": "Martis",
+    "skin": [
+      {
+        "name": "Ashura King",
+        "script": "87.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+        "tag": "null"
+      },
+      {
+        "name": "Searing Maw",
+        "script": "88.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "God of War",
+        "script": "89.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216162258"
+      },
+      {
+        "name": "Capricorn",
+        "script": "90.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20220525165509",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20211211020801"
+      },
+      {
+        "name": "Tyrant",
+        "script": "91.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest?cb=20220525165506",
+        "tag": "null"
+      },
+      {
+        "name": "Death Rock",
+        "script": "92.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest?cb=20220525165510",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Levi Ackerman",
+        "script": "205.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb=20240129101655",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/thumbnail-down/width/74/height/20?cb=20240127075501"
+      },
+      {
+        "name": "Dark Water Terror",
+        "script": "221.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/Martis%20starlight.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Lapu-lapu",
+    "skin": [
+      {
+        "name": "Courageous Blade",
+        "script": "93.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+        "tag": "null"
+      },
+      {
+        "name": "Ancestral Blade",
+        "script": "94.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest?cb=20220525165115",
+        "tag": "null"
+      },
+      {
+        "name": "Special Force",
+        "script": "95.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest?cb=20220525165118",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Imperial Champion",
+        "script": "96.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest?cb=20220525165116",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Vulcan",
+        "script": "97.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest?cb=20220525165117",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Son of the Wild",
+        "script": "98.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest?cb=20230317102332",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/S28_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20230319055041"
+      },
+      {
+        "name": "Adlaw's Chosen",
+        "script": "201.0",
+        "img": "https://raw.githubusercontent.com/lanz132/NEWIMG/main/lapu%C2%B2collector.jpg",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Terizla",
+    "skin": [
+      {
+        "name": "Executioner",
+        "script": "99.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
+        "tag": "null"
+      },
+      {
+        "name": "Flare",
+        "script": "100.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest?cb=20220525165944",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Hammer Giant",
+        "script": "101.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest?cb=20220525165945",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cb=20221111140633"
+      },
+      {
+        "name": "Abyss Guard",
+        "script": "102.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero822-portrait.png/revision/latest?cb=20220525165943",
+        "tag": "null"
+      },
+      {
+        "name": "Rustwreck",
+        "script": "103.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero825-portrait.png/revision/latest?cb=20220525165946",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/S22_Skin_Tag.png/revision/latest/thumbnail-down/width/36/height/20?cb=20211201165110"
+      },
+      {
+        "name": "Flames of Judgement",
+        "script": "210.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/ter.jpg",
+        "tag": "null"
+      },
+      {
+        "name": "Soul Blight Tyrant",
+        "script": "224.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Terizla%20collector.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Masha",
+    "skin": [
+      {
+        "name": "Wild-oats Fist",
+        "script": "104.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+        "tag": "null"
+      },
+      {
+        "name": "Combat Maiden",
+        "script": "105.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero883-portrait.png/revision/latest?cb=20220525170110",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Dragon Armor",
+        "script": "106.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest?cb=20220525170110",
+        "tag": "null"
+      },
+      {
+        "name": "Spirited Gauntlet",
+        "script": "107.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero885-portrait.png/revision/latest?cb=20220525170111",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/S23_Skin_Tag.png/revision/latest/thumbnail-down/width/36/height/20?cb=20211201165131"
+      },
+      {
+        "name": "Rogue Talon",
+        "script": "108.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest?cb=20221103134619",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Mai Shiranui",
+        "script": "212.0",
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/Masha%20kof%20'97.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Bane",
+    "skin": [
+      {
+        "name": "Frozen King",
+        "script": "109.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20220525164530",
+        "tag": "null"
+      },
+      {
+        "name": "Deep Sea Monster",
+        "script": "110.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest?cb=20220525164540",
+        "tag": "null"
+      },
+      {
+        "name": "Warlord",
+        "script": "111.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest?cb=20220525164541",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/S11_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20210522142211"
+      },
+      {
+        "name": "Castle Monster",
+        "script": "112.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest?cb=20220525164539",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Underworld Outlaw",
+        "script": "113.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest?cb=20220525164542",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Soul Defiler",
+        "script": "114.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      }
+    ]
+  },
+  {
+    "hero": "Khaleed",
+    "skin": [
+      {
+        "name": "Desert Scimitar",
+        "script": "115.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Desert_Scimitar.jpg/revision/latest/scale-to-width-down/250?cb=20200912100057",
+        "tag": "null"
+      },
+      {
+        "name": "Price of sand",
+        "script": "116.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Prince_of_Sand.jpg/revision/latest/scale-to-width-down/250?cb=20200912100112",
+        "tag": "null"
+      },
+      {
+        "name": "Crescent Scimitar",
+        "script": "117.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Crescent_Scimitar.jpg/revision/latest/scale-to-width-down/250?cb=20211009140050",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Wave Strider",
+        "script": "215.0",
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/Khaled%20epic.png",
+        "tag": "null"
+      },
+      {
+        "name": "Desert Salamander",
+        "script": "236.0",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/khaleed%20s36.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Yuzhong",
+    "skin": [
+      {
+        "name": "Black Dragon",
+        "script": "118.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20220525170233",
+        "tag": "null"
+      },
+      {
+        "name": "Emerald Dragon",
+        "script": "119.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest?cb=20220525170237",
+        "tag": "null"
+      },
+      {
+        "name": "Biohazard",
+        "script": "120.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest?cb=20220525170238",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Blood Serpent",
+        "script": "121.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest?cb=20220525170239",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Exorcist Dragon",
+        "script": "122.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgZWnNHMIy3YCefgk0eHUNQM3FK2Gc3OUnw&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/The_Exorcists_Skin_Tag.png/revision/latest/thumbnail-down/width/53/height/20?cb=20220915140207"
+      },
+      {
+        "name": "Dragon of Shade",
+        "script": "197.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong1.jpg",
+        "tag": "null"
+      },
+      {
+        "name": "Cosmic Dragon",
+        "script": "198.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong2.jpg",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Paquito",
+    "skin": [
+      {
+        "name": "The Heavenly Fish",
+        "script": "123.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+        "tag": "null"
+      },
+      {
+        "name": "Death Blow",
+        "script": "124.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
+        "tag": "null"
+      },
+      {
+        "name": "Manny Pacquiao",
+        "script": "125.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest?cb=20220525170358",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Pacquiao_Licensed_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064618"
+      },
+      {
+        "name": "Underground Boxer",
+        "script": "126.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest?cb=20220525170359",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Fulgent Punch",
+        "script": "127.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Fist of Light",
+        "script": "128.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest?cb=20221216103142",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Blazing Tiger",
+        "script": "129.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Terry Bogard",
+        "script": "211.0",
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/Paquito%20kof%20'97.png",
+        "tag": "null"
+      },
+      {
+        "name": "Fist of Glory",
+        "script": "219.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/Paquito%20FMVP.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Phoveus",
+    "skin": [
+      {
+        "name": "Shadow of Dread",
+        "script": "130.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOlpoPpKvhPG1FHsKP0dw5sCmoYAcZrklzA&usqp=CAU",
+        "tag": "null"
+      },
+      {
+        "name": "Horror Bringer",
+        "script": "131.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYytlHxqnc2gFO2r93INTSufAABZ9dMHbcQ&usqp=CAU",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Aulus",
+    "skin": [
+      {
+        "name": "Warrior of Ferocity",
+        "script": "132.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+        "tag": "null"
+      },
+      {
+        "name": "Berserker",
+        "script": "133.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
+        "tag": "null"
+      },
+      {
+        "name": "Barren Pioner",
+        "script": "134.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "War Lion",
+        "script": "135.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1084-portrait.png/revision/latest?cb=20221216103149",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Ironmane Reaver",
+        "script": "220.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/Aulus%20S34.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Yin",
+    "skin": [
+      {
+        "name": "Martial Genius",
+        "script": "136.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20220525170549",
+        "tag": "null"
+      },
+      {
+        "name": "Fist of Valor",
+        "script": "137.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest?cb=20220525170604",
+        "tag": "null"
+      },
+      {
+        "name": "M-World Yin",
+        "script": "138.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest?cb=20220525170605",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/M-World_Skin_Tag.png/revision/latest/thumbnail-down/width/53/height/20?cb=20220501041401"
+      },
+      {
+        "name": "Yuji Itadori",
+        "script": "139.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest?cb=20230212035447",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20230214083549"
+      },
+      {
+        "name": "Exyernal Guardian",
+        "script": "140.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Eren Yeager",
+        "script": "206.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest?cb=20240129101521",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/thumbnail-down/width/74/height/20?cb=20240127075501"
+      }
+    ]
+  },
+  {
+    "hero": "Julian",
+    "skin": [
+      {
+        "name": "Scarlet Reaven",
+        "script": "141.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
+        "tag": "null"
+      },
+      {
+        "name": "Silent Edge",
+        "script": "142.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest?cb=20220525170651",
+        "tag": "null"
+      },
+      {
+        "name": "Megomi Fushiguro",
+        "script": "143.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png/revision/latest/thumbnail-down/width/46/height/20?cb=20230214083549"
+      },
+      {
+        "name": "Kurapika",
+        "script": "223.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Julian%20HxH.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "X Borg",
+    "skin": [
+      {
+        "name": "Firaga Armor",
+        "script": "170.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauOudYU8NlrjF1AHJ3_1V99uFn1g_Cng0Og&usqp=CAU",
+        "tag": "null"
+      },
+      {
+        "name": "Moto Drifter",
+        "script": "171.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JgcmBFNETkjHQc2wk0DfWcHCTB62zaC2Bg&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Graffiti Fashion",
+        "script": "172.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrLAHIyDxQP_iahU1JM2Vj9vkdQ9dWkTG3w&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Tesla Maniac",
+        "script": "173.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaiyTUUUAXeX0TAEzXnosHY7AFCStL8vA5VQ&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Bumblebee",
+        "script": "174.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqpQKbpRSXOZmuyv3ZYAQ6QhuKrEPwxltsA&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cb=20220217000003"
+      },
+      {
+        "name": "Recados Rioter",
+        "script": "233.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Xborg%20mcgg.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Silvana",
+    "skin": [
+      {
+        "name": "Imperial Knightess",
+        "script": "175.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
+        "tag": "null"
+      },
+      {
+        "name": "Hallowed Lance",
+        "script": "176.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest?cb=20220525170143",
+        "tag": "null"
+      },
+      {
+        "name": "Midnight Justice",
+        "script": "177.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest?cb=20220525170144",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Pure Heroine",
+        "script": "178.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero904-portrait.png/revision/latest?cb=20220525170145",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "Future Cop",
+        "script": "179.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero906-portrait.png/revision/latest?cb=20220525170147",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Queen Frost",
+        "script": "180.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest?cb=20220525170146",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Verdant Lancer",
+        "script": "181.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest?cb=20230623125834",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Academy Supplies",
+        "script": "217.0",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_silvana.jpg",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Freya",
+    "skin": [
+      {
+        "name": "Valkyrie",
+        "script": "182.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJGAwW3-W1aAD2seuxp35cPWa195LLG0xJg&usqp=CAU",
+        "tag": "null"
+      },
+      {
+        "name": "Gladiator",
+        "script": "183.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdKHPj1qGFzwdrgwDo0utMB1f6SwWV_V7Pw&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Christmas Carnival",
+        "script": "184.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0rczkCm8-5luxDoJpoeRYBRWBmMarP_4Gg&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100"
+      },
+      {
+        "name": "Beach Sweetheart",
+        "script": "185.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgLYgy9BHG6d2c_uawESP5puO4e5TfiUjhw&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "Dragon Hunter",
+        "script": "186.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkL5YKLUAW1SzAEZODcYxsNSdGEgFyMe8Vg&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "War Angel",
+        "script": "187.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest?cb=20220525164804",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest?cb=20240815164310"
+      },
+      {
+        "name": "Raven Shogun",
+        "script": "188.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulWrkMBI_E9FlHOb8mHnfc60ggpUBjAzxUA&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "S.A.B.E.R. Manhunter",
+        "script": "189.0",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrh79zrJswf5Os1QuIbXIlmJSgZwUaUv4IQ&usqp=CAU",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Galactic Vanquisher",
+        "script": "202.0",
+        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Freya%20legend.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Barats",
+    "skin": [
+      {
+        "name": "Dino Rider",
+        "script": "190.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20220525170304",
+        "tag": "null"
+      },
+      {
+        "name": "Armored Lizard",
+        "script": "191.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest?cb=20220525170307",
+        "tag": "null"
+      },
+      {
+        "name": "Toy Rex",
+        "script": "192.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero993-portrait.png/revision/latest?cb=20220525170308",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
+      },
+      {
+        "name": "Baratstein",
+        "script": "193.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "War Chief",
+        "script": "194.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero995-portrait.png/revision/latest?cb=20221111133621",
+        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/S26_Skin_Tag.png/revision/latest/thumbnail-down/width/52/height/20?cb=20230214083556"
+      }
+    ]
+  },
+  {
+    "hero": "Cici",
+    "skin": [
+      {
+        "name": "Buoyant Performer",
+        "script": "203.0",
+        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Backup%20cici.png",
+        "tag": "null"
+      },
+      {
+        "name": "Whimsical Carnival",
+        "script": "204.0",
+        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Basic%20skin%20cici.png",
+        "tag": "null"
+      },
+      {
+        "name": "Circus Reverie",
+        "script": "230.0",
+        "img": "https://github.com/raflinkk/SC/raw/refs/heads/main/CICI/Cici%20starlight.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Kalea",
+    "skin": [
+      {
+        "name": "Surging Wave",
+        "script": "238.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846",
+        "tag": "null"
+      },
+      {
+        "name": "Sakura Haruno",
+        "script": "239.0",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/kalea%20x%20sakura.png",
+        "tag": "null"
+      }
+    ]
+  },
+  {
+    "hero": "Lukas",
+    "skin": [
+      {
+        "name": "Beast of Light",
+        "script": "240.0",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20250407160557",
+        "tag": "null"
+      },
+      {
+        "name": "Naruto Uzumaki",
+        "script": "241.0",
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/lukas%20x%20naruto.png",
+        "tag": "null"
+      }
+    ]
+  }
+]
