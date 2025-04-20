@@ -374,85 +374,40 @@
     "hero": "Atlas",
     "skin": [
       {
-        "name": "Panda Warrior",
-        "script": "31.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20220525164504"
-      },
-      {
-        "name": "Monk",
-        "script": "32.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero093-portrait.png/revision/latest?cb=20220525164514",
-        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
-      },
-      {
-        "name": "Akazonae Samurai",
-        "script": "33.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero094-portrait.png/revision/latest?cb=20220525164515",
-        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
-      },
-      {
-        "name": "Imperial Assassin",
-        "script": "34.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero095-portrait.png/revision/latest?cb=20220525164516",
-        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
-      },
-      {
-        "name": "Street Enforcer",
-        "script": "35.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero097-portrait.png/revision/latest?cb=20220525164518"
-      },
-      {
-        "name": "Stream Recluse",
-        "script": "36.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero096-portrait.png/revision/latest?cb=20220525164517",
-        "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
-      },
-      {
-        "name": "Kung Fu Panda",
-        "script": "37.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero098-portrait.png/revision/latest?cb=20220804115325"
-      },
-      {
-        "name": "Pumpkin Brawler",
-        "script": "105.0",
-        "img": "https://github.com/lanz132/Img/raw/main/akai.jpg"
-      },
-      {
-        "name": "Marvelous Maestro",
-        "script": "115.0",
-        "img": "https://github.com/lanz132/NEWIMG/raw/main/Akai%20anniversary.png"
-      },
-      {
         "name": "Ocean Gladiator",
-        "script": "43.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026"
+        "script": "43",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026",
+        "tag": ""
       },
       {
         "name": "Reactor Core",
-        "script": "44.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest?cb=20220525170223"
+        "script": "44",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest?cb=20220525170223",
+        "tag": ""
       },
       {
         "name": "Fuel Turbine",
-        "script": "45.0",
+        "script": "45",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest?cb=20220525170224",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
       },
       {
         "name": "Space Mech",
-        "script": "46.0",
+        "script": "46",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest?cb=20220804115339",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
       },
       {
         "name": "Rune of Sentinel",
-        "script": "47.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425"
+        "script": "47",
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
+        "tag": ""
       },
       {
         "name": "Mecha Infernus",
-        "script": "111.0",
-        "img": "https://github.com/lanz132/NEWIMG/raw/main/atlas%208-2-24.jpg"
+        "script": "111",
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/atlas%208-2-24.jpg",
+        "tag": ""
       }
     ]
   },
