@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Alpha Blade of Enmity",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero287-color01-portrait.png/revision/latest?cb=20230805043823",
+    "script": "0",
+    "backup": "0"
+  },
+  {
+    "name": "Arlott Scorn of the Deep",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1203-color01-portrait.png/revision/latest?cb=20240114160247",
+    "script": "24",
+    "backup": "22"
+  },
+  {
+    "name": "Chou Undefeated Champion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb=20220525164852",
+    "script": "1",
+    "backup": "1"
+  },
+  {
+    "name": "Chou Red Tiger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cb=20220525164853",
+    "script": "2",
+    "backup": "1"
+  },
+  {
+    "name": "Claude Chill Summer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
+    "script": "3",
+    "backup": "2"
+  },
+  {
+    "name": "Edith Golden Warden",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero611131-portrait.png/revision/latest?cb=20230316133755",
+    "script": "4",
+    "backup": "3"
+  },
+  {
+    "name": "Esmeralda Blazing Shadow",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero814-portrait.png/revision/latest?cb=20220525165935",
+    "script": "5",
+    "backup": "4"
+  },
+  {
+    "name": "Franco Luminous Nightmare",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526",
+    "script": "6",
+    "backup": "5"
+  },
+  {
+    "name": "Guinevere Scarlet Dance",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest?cb=20220525165913",
+    "script": "7",
+    "backup": "6"
+  },
+  {
+    "name": "Gatotkaca Nutcracker Earl",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero418-color01-portrait.png/revision/latest?cb=20240905074738",
+    "script": "26",
+    "backup": "0"
+  },
+  {
+    "name": "Gusion Romantic Liaison",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest?cb=20220915121902",
+    "script": "8",
+    "backup": "7"
+  },
+  {
+    "name": "Gusion Royal Spider",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero105613-color01-portrait.png/revision/latest?cb=20240619171241",
+    "script": "25",
+    "backup": "23"
+  },
+  {
+    "name": "Hanzo Evil Tutor",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "script": "9",
+    "backup": "8"
+  },
+  {
+    "name": "Harith Wayfarer",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
+    "script": "10",
+    "backup": "9"
+  },
+  {
+    "name": "Harley Referee",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest?cb=20220525165204",
+    "script": "11",
+    "backup": "10"
+  },
+  {
+    "name": "Hayabusa Sushi Master - Purple",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest?cb=20220628175954",
+    "script": "12",
+    "backup": "11"
+  },
+  {
+    "name": "Kagura Amethyst Wizard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest?cb=20220525164841",
+    "script": "13",
+    "backup": "12"
+  },
+  {
+    "name": "Kagura Pink Summer Festival",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest?cb=20220628175959",
+    "script": "14",
+    "backup": "12"
+  },
+  {
+    "name": "Kimmy Detonating Fuse",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest?cb=20220525165742",
+    "script": "15",
+    "backup": "13"
+  },
+  {
+    "name": "Lesley Romantic Love",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest?cb=20220915121813",
+    "script": "16",
+    "backup": "14"
+  },
+  {
+    "name": "Minsitthar Radiant Lion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero745-color01-portrait.png/revision/latest?cb=20230623125742",
+    "script": "17",
+    "backup": "15"
+  },
+  {
+    "name": "Moskov Spear of Dystopia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero61031101-portrait.png/revision/latest?cb=20230316133759",
+    "script": "18",
+    "backup": "16"
+  },
+  {
+    "name": "Nolan Fashion Tycoon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero1223-color01-portrait.png/revision/latest?cb=20240502082248",
+    "script": "28",
+    "backup": "25"
+  },
+  {
+    "name": "Novaria Honey Glaze",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero1193-color01-portrait.png/revision/latest?cb=20240129102726",
+    "script": "29",
+    "backup": "26"
+  },
+  {
+    "name": "Roger Fire Pirate",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest?cb=20230317100649",
+    "script": "27",
+    "backup": "24"
+  },
+  {
+    "name": "Saber Steel of Hound",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero60391-portrait.png/revision/latest?cb=20221216103154",
+    "script": "19",
+    "backup": "17"
+  },
+  {
+    "name": "Thamuz Sanctified Flame",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero726-color01-portrait.png/revision/latest?cb=20230514163422",
+    "script": "20",
+    "backup": "18"
+  },
+  {
+    "name": "Valentina Digital Enchantress",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero61104-portrait.png/revision/latest?cb=20230212035452",
+    "script": "21",
+    "backup": "19"
+  },
+  {
+    "name": "Wanwan Azure Commander",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest?cb=20220525170127",
+    "script": "22",
+    "backup": "20"
+  },
+  {
+    "name": "Yin Eternal Guardian",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1135-color01-portrait.png/revision/latest?cb=20230623125839",
+    "script": "23",
+    "backup": "21"
+  },
+  {
+    "name": "Martis Nethersea Terror",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero588-color01-portrait.png/revision/latest?cb=20240923124135",
+    "script": "30",
+    "backup": "27"
+  },
+  {
+    "name": "Helcurt Phantom Prowler",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero516-color01-portrait.png/revision/latest?cb=20240604030126",
+    "script": "31",
+    "backup": "28"
+  },
+  {
+    "name": "Ixia Dynamic Style",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1213-color02-portrait.png/revision/latest?cb=20240301100856",
+    "script": "32",
+    "backup": "29"
+  },
+  {
+    "name": "Claude Challenger's Flare",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero106511-color01-portrait.png/revision/latest?cb=20241012142700",
+    "script": "33",
+    "backup": "30"
+  },
+  {
+    "name": "Light Seeker",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero1055-color01-portrait.png/revision/latest?cb=20241012142657",
+    "script": "34",
+    "backup": "31"
+  }
+]
