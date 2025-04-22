@@ -1,99 +1,94 @@
 [
   {
-  "hero": "Gusion",
-  "dataSkin": [
-    {
-      "title": "Gusion Basic",
-      "skin": [
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_KOF.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_LEGEND.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_COLLECTOR.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_EPIC.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_11.11.zip"
-        }
-      ]
-    },
-    {
-      "title": "Gusion Elite",
-      "skin": [
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_KOF.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_LEGEND.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_COLLECTOR.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_EPIC.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_11.11.zip"
-        }
-      ]
-    },
-    {
-      "title": "Gusion Star",
-      "skin": [
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_KOF.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_LEGEND.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_COLLECTOR.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_EPIC.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_11.11.zip"
-        }
-      ]
-    },
-    {
-      "title": "Gusion Back Up",
-      "backup": [
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest?cb=20220909095408",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BACK_UP.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest?cb=20220525165444",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BACK_UP.zip"
-        },
-        {
-          "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest?cb=20220525165446",
-          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BACK_UP.zip"
-        }
-      ]
-    }
-  ]
-}
+    "hero": "Gusion",
+    "dataSkin": [
+      {
+        "title": "Gusion Basic",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_KOF.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_LEGEND.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_11.11.zip"
+          }
+        ]
+      },
+      {
+        "title": "Gusion Elite",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest?cb=20220525165444",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BACK_UP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest?cb=20220909095408",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BACK_UP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_KOF.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_LEGEND.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_ELITE-_11.11.zip"
+          }
+        ]
+      },
+      {
+        "title": "Gusion Star",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest?cb=20220525165446",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BACK_UP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_KOF.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest?cb=20220525165451",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_LEGEND.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest?cb=20220714031432",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_STAR-_11.11.zip"
+          }
+        ]
+      }
+    ]
+  }
 ]
