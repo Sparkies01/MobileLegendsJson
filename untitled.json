@@ -6,6 +6,10 @@
         "title": "Gusion Basic",
         "skin": [
           {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest?cb=20220909095408",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BACK_UP.zip"
+          },
+          {
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest?cb=20220525165449",
             "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/GUSION_BASIC-_KOF.zip"
           },
