@@ -1,0 +1,116 @@
+[
+{
+  "hero": "Hayabusa",
+  "dataSkin": [
+    {
+      "title": "Replace to Basic Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Hero212-portrait.png/revision/latest?cb=20220525164751",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BASIC-_ANNUAL.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BASIC-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BASIC-_STAR.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BASIC-_11.11.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest?cb=20221118130654",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BASIC-_ELITE1.zip"
+        }
+      ]
+    },
+    {
+      "title": "Replace to Elite Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero213-portrait.png/revision/latest?cb=20220525164752",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_ELITE-_ANNUAL.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_ELITE-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_ELITE-_11.11.zip"
+           }
+      ]
+    },
+          {
+      "title": "Replace to Elite Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest?cb=20221118130654",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_ELITE1-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_ELITE1-_11.11.zip"
+        }
+      ]
+    },
+    {
+      "title": "Replace to Starlight Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_STAR-_ANNUAL.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_STAR-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_STAR-_11.11.zip"
+        }
+      ]
+    },
+    {
+      "title": "Replace to Summer Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero214-portrait.png/revision/latest?cb=20220628175954",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_SUMMER-_ANNUAL.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_SUMMER-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HAYABUSA_SUMMER-_11.11.zip"
+        }
+      ]
+    }
+  ]
+}
+]
