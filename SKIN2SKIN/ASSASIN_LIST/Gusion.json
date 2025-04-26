@@ -3,7 +3,7 @@
     "hero": "Gusion",
     "dataSkin": [
       {
-        "title": "Replace to Basic",
+        "title": "Replace to Basic Skin",
         "skin": [
           {
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest?cb=20220909095408",
@@ -32,7 +32,7 @@
         ]
       },
       {
-        "title": "Replace to Elite",
+        "title": "Replace to Elite Skin",
         "skin": [
           {
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest?cb=20220525165444",
@@ -61,7 +61,7 @@
         ]
       },
       {
-        "title": "Replace to Starlight",
+        "title": "Replace to Starlight Skin",
         "skin": [
           {
             "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest?cb=20220525165446",
