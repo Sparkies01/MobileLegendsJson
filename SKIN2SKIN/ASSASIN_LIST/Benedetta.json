@@ -1,0 +1,32 @@
+[
+{
+  "hero": "Benedetta",
+  "dataSkin": [
+    {
+      "title": "Replace to Basic Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest?cb=20220525170253",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/BENEDETTA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb=20220525170254",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/BENEDETTA_BASIC-_STAR_.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb=20220525170255",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/BENEDETTA_BASIC-_COLLECTOR.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb=20220525170256",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/BENEDETTA_BASIC-_SPECIAL.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/BENEDETTA_BASIC-_DUCATI.zip"
+        }
+      ]
+    }
+  ]
+}
+]
