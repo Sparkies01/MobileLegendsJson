@@ -1,0 +1,28 @@
+[
+{
+  "hero": "Natalia",
+  "dataSkin": [
+    {
+      "title": "Replace to Basic Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero242-portrait.png/revision/latest?cb=20240121134504",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/NATALIA%20BACKUP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero245-portrait.png/revision/latest?cb=20240121134727",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/NATALIA%20BASIC-SPECIAL.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/NATALIA%20BASIC-SPECIAL1.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero246-portrait.png/revision/latest?cb=20220525164835",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/NATALIA%20BASIC-SPECIAL2.zip"
+        }
+      ]
+    }
+  ]
+}
+]
