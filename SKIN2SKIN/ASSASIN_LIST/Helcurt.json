@@ -1,0 +1,28 @@
+[
+{
+  "hero": "Helcurt",
+  "dataSkin": [
+    {
+      "title": "Replace to Basic Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest?cb=20220525165333",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HELCURT_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb=20220525165334",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HELCURT_BASIC-_ELITE.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest?cb=20220525165335",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HELCURT_BASIC-_SPECIAL.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb=20230917050311",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HELCURT_BASIC-_ZODIAC.zip"
+        }
+      ]
+    }
+  ]
+}
+]
