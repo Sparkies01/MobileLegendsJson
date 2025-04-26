@@ -1,0 +1,82 @@
+[
+{
+  "hero": "Karina",
+  "dataSkin": [
+    {
+      "title": "Replace to Elite Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest?cb=20220525164455",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_ELITE-_CHRISTMAS.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_ELITE-_ELITE1.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_ELITE-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_ELITE-_KOF_.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_ELITE-_ZODIAC.zip"
+        }
+      ]
+    },
+    {
+      "title": "Replace to Elite1 Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_ELITE1-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_ELITE1-_KOF.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_ELITE1-_ZODIAC.zip"
+        }
+      ]
+    },
+    {
+      "title": "Replace to Basic Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero089-portrait.png/revision/latest?cb=20220525164502",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_BACK_UP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_BASIC-_CHRISTMAS.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_BASIC-_EPIC.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_BASIC-_KOF.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero088-portrait.png/revision/latest?cb=20230514163400",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/KARINA_BASIC-_ZODIAC.zip"
+        }
+      ]
+    }
+  ]
+}
+]
