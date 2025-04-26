@@ -1,0 +1,24 @@
+[
+{
+  "hero": "Hanzo",
+  "dataSkin": [
+    {
+      "title": "Replace to Basic Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero692-portrait.png/revision/latest?cb=20220525165725",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HANZO_BACK_UPzip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb=20220525165726",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HANZO_BASIC-_ELITE.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+          "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/HANZO_BASIC-_SPECIAL.zip"
+        }
+      ]
+    }
+  ]
+}
+]
