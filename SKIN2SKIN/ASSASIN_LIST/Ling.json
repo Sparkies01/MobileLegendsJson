@@ -1,0 +1,109 @@
+[
+  {
+    "hero": "Ling",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BASIC-DRAGON.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BASIC-COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BASIC-SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BASIC-MWORLD.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BASIC-PANDA.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Starlight Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20STAR-DRAGON.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20STAR-COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20STAR-COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20STAR-MWORLD.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Mworld Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20MWOLRD-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20MWORLD-DRAGON.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20MWORLD-COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero848-portrait.png/revision/latest?cb=20220804115337",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20MWORLD-PANDA.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Special Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest?cb=20220525170016",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20SPECIAL-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20SPECIAL-DRAGON.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20SPECIAL-COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+            "script": "https://github.com/lanz132/ASSASIN-UPGRADE/raw/main/LING%20SPECIAL-MWORLD.zip"
+          }
+        ]
+      }
+    ]
