@@ -1,0 +1,49 @@
+[
+  {
+    "hero": "Sun",
+    "dataSkin": [
+      {
+        "title": "Replace to Elite Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest?cb=20240131101410",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/SUN%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest?cb=20240121135350",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/SUN%20ELITE-SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20240121135455",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/SUN%20ELITE-SPECIAL1.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest?cb=20220525164905",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/SUN%20ELITE-STAR.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Celestial Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest?cb=20220525164909",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/SUN%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest?cb=20240121135350",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/SUN%20CELESTIAL-SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20240121135455",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/SUN%20CELESTIAL-SPECIAL1.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest?cb=20220525164905",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/SUN%20CELESTIAL-STAR.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
