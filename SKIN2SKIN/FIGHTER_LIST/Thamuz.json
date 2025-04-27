@@ -1,0 +1,28 @@
+[
+  {
+    "hero": "Thamuz",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest?cb=20220525165748",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/THAMUZ%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest?cb=20220525165749",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/THAMUZ%20BASIC-ELITE.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero724-portrait.png/revision/latest?cb=20220525165749",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/THAMUZ%20BASIC-SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/THAMUZ%20BASIC-PANDA.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
