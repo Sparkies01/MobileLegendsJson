@@ -1,0 +1,74 @@
+[
+  {
+    "hero": "Martis",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest?cb=20220525165506",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_BACK_UP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest?cb=20220525165510",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_BASIC-_AOT.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_BASIC-_STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_BASIC-_EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20240114125523",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_BASIC-_ZODIAC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb=20240129101655",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_BASIC-_AOT.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Special Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest?cb=20220525165510",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_BACK_UP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_SPECIAL-_STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_SPECIAL-_EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20240114125523",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_SPECIAL-_ZODIAC.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Starlight Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_BACK_UP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_STAR-_EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20240114125523",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MARTIS_STAR-_ZODIAC.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
