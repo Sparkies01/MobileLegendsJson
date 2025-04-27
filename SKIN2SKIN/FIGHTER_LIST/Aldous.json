@@ -1,0 +1,32 @@
+[
+{
+  "hero": "Aldous",
+  "dataSkin": [
+    {
+      "title": "Replace to Basic Skin",
+      "skin": [
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest?cb=20220525165619",
+          "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALDOUS%20BACKUP.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest?cb=20220525165621",
+          "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALDOUS%20BASIC-STAR.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest?cb=20220525165623",
+          "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALDOUS%20BASIC-BLAZING.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
+          "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALDOUS%20BASIC-COLLECTOR.zip"
+        },
+        {
+          "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest?cb=20240114131253",
+          "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALDOUS%20BASIC-MISTBENDERS.zip"
+        }
+      ]
+    }
+  ]
+}
+]
