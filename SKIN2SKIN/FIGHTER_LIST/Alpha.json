@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "Alpha",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero283-portrait.png/revision/latest?cb=20220525164920",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALPHA%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest?cb=20220525164918",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALPHA%20BASIC-EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest?cb=20220525164922",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALPHA%20BASIC-SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest?cb=20220525164923",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALPHA%20BASIC-ABYSS.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest?cb=20230805043831",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ALPHA%20BASIC-STAR.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
