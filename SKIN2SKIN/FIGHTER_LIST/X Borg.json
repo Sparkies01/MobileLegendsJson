@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "X borg",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest?cb=20220525165957",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/XBORG%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest?cb=20220525165958",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/XBORG%20BASIC-ELITE.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest?cb=20220525165959",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/XBORG%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest?cb=20220525170000",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/XBORG%20BASIC-EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest?cb=20220525170001",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/XBORG%20BASIC-TRANSFORMER.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
