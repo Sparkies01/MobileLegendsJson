@@ -1,0 +1,20 @@
+[
+  {
+    "hero": "Minsitthar",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest?cb=20230317100603",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MINSITTHAR%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero746-portrait.png/revision/latest?cb=20240131092447",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MINSITTHAR%20BASIC-COLLECTOR.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
