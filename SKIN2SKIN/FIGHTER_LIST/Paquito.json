@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "Paquito",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/PAQUITO%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest?cb=20220525170358",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/PAQUITO%20BASIC-EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/PAQUITO%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest?cb=20221216103142",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/PAQUITO%20BASIC-SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/PAQUITO%20BASIC-COLLECTOR.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
