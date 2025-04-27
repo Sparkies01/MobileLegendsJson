@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "Argus",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest?cb=20220525165229",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ARGUS%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest?cb=20220525165231",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ARGUS%20BASIC-ELITE.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest?cb=20220525165230",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ARGUS%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest?cb=20220525165232",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ARGUS%20BASIC-WARS.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest?cb=20221118130656",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ARGUS%20BASIC-S27.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
