@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "Bane",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest?cb=20220525164540",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/BANE%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest?cb=20220525164539",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/BANE%20BASIC-EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest?cb=20220525164541",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/BANE%20BASIC-S11.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest?cb=20220525164542",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/BANE%20BASIC-ELITE.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/BANE%20BASIC-EPIC2.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
