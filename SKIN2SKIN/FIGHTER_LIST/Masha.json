@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "Masha",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero882-portrait.png/revision/latest?cb=20220525170108",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MASHA%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero883-portrait.png/revision/latest?cb=20220525170110",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MASHA%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest?cb=20220525170110",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MASHA%20BASIC-DRAGON.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero885-portrait.png/revision/latest?cb=20220525170111",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MASHA%20BASIC-S23.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest?cb=20221103134619",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/MASHA%20BASIC-SPECIAL.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
