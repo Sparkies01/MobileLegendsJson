@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "Yin",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest?cb=20220525170604",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YIN%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest?cb=20220525170605",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YIN%20BASIC-MWORLD.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest?cb=20230212035447",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YIN%20BASIC-KAISEN.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YIN%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest?cb=20240129101521",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YIN%20BASIC-TITAN.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
