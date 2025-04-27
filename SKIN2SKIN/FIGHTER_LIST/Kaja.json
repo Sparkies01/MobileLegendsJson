@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "Kaja",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero622-portrait.png/revision/latest?cb=20220525165550",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/KAJA%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero624-portrait.png/revision/latest?cb=20220525165552",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/KAJA%20BASIC-ELITE.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero623-portrait.png/revision/latest?cb=20220525165551",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/KAJA%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest?cb=20220525165553",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/KAJA%20BASIC-EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/KAJA%20BASIC-EPIC2.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
