@@ -1,0 +1,24 @@
+[
+  {
+    "hero": "Aulus",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest?cb=20220525170454",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/AULUS%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/AULUS%20BASIC-ELITE.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1084-portrait.png/revision/latest?cb=20221216103149",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/AULUS%20BASIC-SPECIAL.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
