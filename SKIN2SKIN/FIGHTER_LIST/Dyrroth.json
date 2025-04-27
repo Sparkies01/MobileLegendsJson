@@ -1,0 +1,32 @@
+[
+  {
+    "hero": "Dyrotth",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/DYROTTH%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/DYROTTH%20BASIC-KOF.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/DYROTTH%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20220525170036",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/DYROTTH%20BASIC-EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/DYROTTH%20BASIC-COLLECTOR.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
