@@ -1,0 +1,28 @@
+[
+  {
+    "hero": "Lapulapu",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest?cb=20220525165115",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/LAPU%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest?cb=20220525165116",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/LAPU%20BASIC-ELITE.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest?cb=20220525165117",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/LAPU%20BASIC%20-%20SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest?cb=20220525165118",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/LAPU%20BASIC-STAR.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
