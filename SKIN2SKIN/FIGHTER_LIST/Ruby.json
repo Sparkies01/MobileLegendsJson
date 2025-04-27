@@ -1,0 +1,40 @@
+[
+  {
+    "hero": "Ruby",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest?cb=20220525164933",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/RUBBY%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest?cb=20220525165139",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/STAR%20BASIC%20-%20TRANSFORMER.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/RUBBY%20BASIC-ELITE2.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/RUBBY%20BASIC-EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest?cb=20220525164937",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/RUBBY%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/RUBBY%20BASIC-ASPIRANT.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/RUBBY%20BASIC-COLLECTOR.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
