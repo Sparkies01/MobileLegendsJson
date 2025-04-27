@@ -1,0 +1,20 @@
+[
+  {
+    "hero": "Julian",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest?cb=20220525170651",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/JULIAN%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/JULIAN%20BASIC-KAISEN.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
