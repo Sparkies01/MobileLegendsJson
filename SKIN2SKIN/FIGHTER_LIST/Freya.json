@@ -1,0 +1,36 @@
+[
+  {
+    "hero": "Freya",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero227-portrait.png/revision/latest?cb=20220525164806",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/FREYA%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero224-portrait.png/revision/latest?cb=20220525164803",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/FREYA%20BASIC-SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest?cb=20220525164804",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/FREYA%20BASIC-EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero228-portrait.png/revision/latest?cb=20220525164807",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/FREYA%20BASIC-EPIC2.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero229-portrait.png/revision/latest?cb=20220525164809",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/FREYA%20BASIC-EPIC3.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/FREYA%20BASIC-LEGEND.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
