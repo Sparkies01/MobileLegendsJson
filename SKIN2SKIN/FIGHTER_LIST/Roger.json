@@ -1,0 +1,61 @@
+[
+  {
+    "hero": "Roger",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest?cb=20220525165131",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20BASIC%20-%20EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero396-portrait.png/revision/latest?cb=20220525165135",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20BASIC%20-%20EPIC3.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png/revision/latest?cb=20220525165136",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20BASIC%20-%20M3.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest?cb=20220525165137",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20BASIC%20-%20PRIME.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest?cb=20220525165139",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20BASIC%20-%20TRANSFORMER.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Starlight Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero394-portrait.png/revision/latest?cb=20220525165133",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20STAR%20-%20EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero396-portrait.png/revision/latest?cb=20220525165135",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20STAR%20-%20EPIC3.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest?cb=20220525165137",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ROGER%20STAR%20-%20PRIME.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest?cb=20220525165139",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/STAR%20BASIC%20-%20TRANSFORMER.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
