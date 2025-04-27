@@ -1,0 +1,20 @@
+[
+  {
+    "hero": "Arlott",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1202-portrait.png/revision/latest?cb=20230208125754",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ARLOTH%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest?cb=20240114160254",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/ARLOTH%20BASIC-STAR.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
