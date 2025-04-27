@@ -1,0 +1,90 @@
+[
+  {
+    "hero": "Chou",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cb=20220719071254",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20BASIC%20-%20KOF.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20BASIC%20-%20HERO.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20BASIC%20-%20GREEN.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20BASIC%20-%20YELLOW.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20BASIC%20-%20ECHO.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Elite Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb=20220525164852",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20ELITE%20-%20EPIC.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20ELITE%20-%20KOF.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20ELITE%20-%20HERO.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20ELITE%20-%20GREEN.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20ELITE%20-%20YELLOW.zip"
+          }
+        ]
+      },
+      {
+        "title": "Replace to Starlight Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb=20220525164855",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20STAR%20-%20KOF.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20STAR%20-%20HERO.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20STAR%20-%20GREEN.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/CHOU%20STAR%20-%20YELLOW.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
