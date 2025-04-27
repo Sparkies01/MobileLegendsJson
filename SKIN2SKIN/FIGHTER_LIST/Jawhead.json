@@ -1,0 +1,36 @@
+[
+  {
+    "hero": "Jawhead",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero542-portrait.png/revision/latest?cb=20220525165412",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/JAWHEAD%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero543-portrait.png/revision/latest?cb=20220525165413",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/JAWHEAD%20BASIC-SPECIAL.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero545-portrait.png/revision/latest?cb=20220525165416",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/JAWHEAD%20BASIC-SPECIAL2.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/JAWHEAD%20BASIC-COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero547-portrait.png/revision/latest?cb=20220525165418",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/JAWHEAD%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/JAWHEAD%20MPL.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
