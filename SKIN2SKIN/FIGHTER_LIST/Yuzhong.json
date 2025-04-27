@@ -1,0 +1,36 @@
+[
+  {
+    "hero": "Yuzhong",
+    "dataSkin": [
+      {
+        "title": "Replace to Basic Skin",
+        "skin": [
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest?cb=20220525170237",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YU%20ZHONG%20BACKUP.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest?cb=20220525170238",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YU%20ZHONG%20BASIC-STAR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest?cb=20220525170239",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YU%20ZHONG%20BASIC-COLLECTOR.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest?cb=20220915122237",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YU%20ZHONG%20BASIC-EXORCIST.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest?cb=20240114145027",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YU%20ZHONG%20BASIC-M5.zip"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest?cb=20240114145030",
+            "script": "https://github.com/lanz132/FIGHTER-UPGRADE/raw/main/YU%20ZHONG%20BASIC-PRIME.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
