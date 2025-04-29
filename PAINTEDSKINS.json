@@ -208,5 +208,17 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero1055-color01-portrait.png/revision/latest?cb=20241012142657",
     "script": "34",
     "backup": "31"
+  },
+  {
+    "name": "Exostar Runner",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero1185-color01-portrait.png/revision/latest?cb=20250307123921",
+    "script": "35",
+    "backup": "32"
+  },
+  {
+    "name": "Exostar Ranger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero1185-color02-portrait.png/revision/latest?cb=20250307123924",
+    "script": "36",
+    "backup": "32"
   }
 ]
