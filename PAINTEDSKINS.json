@@ -220,11 +220,5 @@
         "backup": "32",
         "name": "Joy Exostar Ranger",
         "script": "36"
-    },
-    {
-        "img": "https:ambot",
-        "backup": "47",
-        "name": "ambot",
-        "script": "47"
     }
 ]
