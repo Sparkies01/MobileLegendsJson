@@ -220,5 +220,17 @@
         "backup": "32",
         "name": "Joy Exostar Ranger",
         "script": "36"
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000779207.png",
+        "backup": "33",
+        "name": "Phoveus Matrix Raider",
+        "script": "37"
+    },
+    {
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000779208.png",
+        "backup": "34",
+        "name": "Phoveus Matrix Marauder",
+        "script": "38"
     }
 ]
