@@ -1291,14 +1291,12 @@
       {
         "name": "Scarlet Reaven",
         "script": "141.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638"
       },
       {
         "name": "Silent Edge",
         "script": "142.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest?cb=20220525170651",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1162-portrait.png/revision/latest?cb=20220525170651"
       },
       {
         "name": "Megomi Fushiguro",
@@ -1309,8 +1307,13 @@
       {
         "name": "Kurapika",
         "script": "223.0",
-        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Julian%20HxH.png",
-        "tag": "null"
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Julian%20HxH.png"
+      },
+      {
+        "name": "Locking Flame",
+        "script": "243",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781190.png",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1361,14 +1364,12 @@
       {
         "name": "Imperial Knightess",
         "script": "175.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero901-portrait.png/revision/latest?cb=20220525170133"
       },
       {
         "name": "Hallowed Lance",
         "script": "176.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest?cb=20220525170143",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest?cb=20220525170143"
       },
       {
         "name": "Midnight Justice",
@@ -1403,8 +1404,13 @@
       {
         "name": "Academy Supplies",
         "script": "217.0",
-        "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_silvana.jpg",
-        "tag": "null"
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_silvana.jpg"
+      },
+      {
+        "name": "Earth Guardian",
+        "script": "242",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000781189.png",
+        "tag": "(No Tags)"
       }
     ]
   },
