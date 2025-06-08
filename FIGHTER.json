@@ -583,8 +583,7 @@
       {
         "name": "Steal Sweetheart",
         "script": "75.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20220525165409",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20220525165409"
       },
       {
         "name": "Foo Quaterback",
@@ -625,8 +624,13 @@
       {
         "name": "Season 33",
         "script": "216.0",
-        "img": "https://github.com/Hiro161123/Fighter/raw/main/jawhead%20s33.jpg",
-        "tag": "null"
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/jawhead%20s33.jpg"
+      },
+      {
+        "name": "Proto Guardian",
+        "script": "244",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000783080.png",
+        "tag": "(No Tags)"
       }
     ]
   },
