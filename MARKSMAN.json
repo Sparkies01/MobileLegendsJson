@@ -795,6 +795,12 @@
         "name": "Flying Swallow",
         "script": "153",
         "img": "https://github.com/lanz132/NEWIMG/raw/main/wanwan.jpg"
+      },
+      {
+        "name": "Summer Splash",
+        "script": "186",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000787161.png",
+        "tag": "(No Tags)"
       }
     ]
   },
