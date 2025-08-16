@@ -82,14 +82,12 @@
       {
         "name": "Contractor",
         "script": "12.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20220525165611",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20220525165611"
       },
       {
         "name": "Red Mantle",
         "script": "77.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest?cb=20220525165619",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest?cb=20220525165619"
       },
       {
         "name": "The Insentient",
@@ -130,8 +128,13 @@
       {
         "name": "MistBenders",
         "script": "222.0",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaMBbBiYUgl2MRoqRMZe1yGPlRJjupTp1sw&usqp=CAU",
-        "tag": "null"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaMBbBiYUgl2MRoqRMZe1yGPlRJjupTp1sw&usqp=CAU"
+      },
+      {
+        "name": "Fathom Terror",
+        "script": "245",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062389.png",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -200,8 +203,7 @@
       {
         "name": "Tribal Warrior",
         "script": "28.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815"
       },
       {
         "name": "Sunsanoo",
@@ -232,6 +234,12 @@
         "script": "33.0",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cb=20220915140211"
+      },
+      {
+        "name": "Steel Arm",
+        "script": "246",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062391.png",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -300,20 +308,17 @@
       {
         "name": "Spear of Dragon",
         "script": "42.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20220525164636",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20220525164636"
       },
       {
         "name": "Elite Warrior",
         "script": "777.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest?cb=20220525164645",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest?cb=20220525164645"
       },
       {
         "name": "Loyal Spear",
         "script": "43.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest?cb=20220525164652",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest?cb=20220525164652"
       },
       {
         "name": "Changbanpo Commander",
@@ -348,7 +353,7 @@
       {
         "name": "Summer Waves",
         "script": "49.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062365.jpg",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205"
       },
       {
@@ -366,8 +371,7 @@
       {
         "name": "Dragon of Prosperity",
         "script": "209.0",
-        "img": "https://github.com/Hiro161123/Fighter/raw/main/Zilong%20lunar%20fest.png",
-        "tag": "null"
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/Zilong%20lunar%20fest.png"
       }
     ]
   },
@@ -1327,8 +1331,7 @@
       {
         "name": "Firaga Armor",
         "script": "170.0",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauOudYU8NlrjF1AHJ3_1V99uFn1g_Cng0Og&usqp=CAU",
-        "tag": "null"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauOudYU8NlrjF1AHJ3_1V99uFn1g_Cng0Og&usqp=CAU"
       },
       {
         "name": "Moto Drifter",
@@ -1357,8 +1360,13 @@
       {
         "name": "Recados Rioter",
         "script": "233.0",
-        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Xborg%20mcgg.png",
-        "tag": "null"
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Xborg%20mcgg.png"
+      },
+      {
+        "name": "Invoker's Frame",
+        "script": "247",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062375.png",
+        "tag": "(No Tags)"
       }
     ]
   },

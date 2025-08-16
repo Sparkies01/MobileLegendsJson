@@ -193,6 +193,12 @@
         "name": "Vessel of Rage",
         "script": "167",
         "img": "https://github.com/Hiro161123/Apps/raw/main/Hanabi%20soul.png"
+      },
+      {
+        "name": "Neon Glamour ",
+        "script": "188",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062393.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -281,7 +287,7 @@
       {
         "name": "Lifeguard",
         "script": "37",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062385.png",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205"
       },
       {
@@ -521,7 +527,7 @@
       {
         "name": "Sun n Sand",
         "script": "70",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero132-portrait.png/revision/latest?cb=20220525164557",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062386.png",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230"
       },
       {
@@ -745,6 +751,12 @@
         "name": "Infernal Whymlord",
         "script": "164",
         "img": "https://raw.githubusercontent.com/Hiro161123/Marksman/main/Moskov%20allstar.png"
+      },
+      {
+        "name": "Harbinger of Chaos",
+        "script": "188",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062376.png",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -858,6 +870,12 @@
         "script": "117",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest?cb=20230317100649",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Invoker's Restrain",
+        "script": "189",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062373.png",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1141,6 +1159,12 @@
         "name": "Dynamic Streak",
         "script": "163",
         "img": "https://github.com/lanz132/NEWIMG/raw/main/ixia91.jpg"
+      },
+      {
+        "name": "Invoker's Command",
+        "script": "89",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000062374.png",
+        "tag": "(No Tags)"
       }
     ]
   }
