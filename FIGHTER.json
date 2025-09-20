@@ -144,8 +144,7 @@
       {
         "name": "Ms.Violet",
         "script": "19.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20220525165850",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20220525165850"
       },
       {
         "name": "Lotus",
@@ -180,8 +179,7 @@
       {
         "name": "Fleur de Bleau",
         "script": "25.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest?cb=20220525165903",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest?cb=20220525165903"
       },
       {
         "name": "Summer Breeze",
@@ -194,6 +192,12 @@
         "script": "27.0",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cb=20210414064339"
+      },
+      {
+        "name": "Twilight Star",
+        "script": "249",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077484.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -505,14 +509,12 @@
       {
         "name": "Courageous Warrior",
         "script": "65.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559"
       },
       {
         "name": "King of War",
         "script": "66.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest?cb=20230317100603",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest?cb=20230317100603"
       },
       {
         "name": "Gilded King",
@@ -531,6 +533,12 @@
         "script": "218.0",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20240131092447",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Golden Marshal",
+        "script": "248",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077472.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -644,8 +652,7 @@
       {
         "name": "Lord Lava",
         "script": "144.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744"
       },
       {
         "name": "Liquid Fire",
@@ -656,8 +663,7 @@
       {
         "name": "Lord of Wrait",
         "script": "146.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest?cb=20220525165748",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest?cb=20220525165748"
       },
       {
         "name": "Abyssal Repear",
@@ -668,14 +674,19 @@
       {
         "name": "General Kai",
         "script": "148.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335"
       },
       {
         "name": "Sanctified Flame",
         "script": "149.0",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603"
+      },
+      {
+        "name": "The Annihilator",
+        "script": "250",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077465.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1258,14 +1269,12 @@
       {
         "name": "Martial Genius",
         "script": "136.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20220525170549",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20220525170549"
       },
       {
         "name": "Fist of Valor",
         "script": "137.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest?cb=20220525170604",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest?cb=20220525170604"
       },
       {
         "name": "M-World Yin",
@@ -1290,6 +1299,12 @@
         "script": "206.0",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest?cb=20240129101521",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/thumbnail-down/width/74/height/20?cb=20240127075501"
+      },
+      {
+        "name": "Dauntless Battlelord",
+        "script": "252",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077492.png",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1526,20 +1541,23 @@
       {
         "name": "Buoyant Performer",
         "script": "203.0",
-        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Backup%20cici.png",
-        "tag": "null"
+        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Backup%20cici.png"
       },
       {
         "name": "Whimsical Carnival",
         "script": "204.0",
-        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Basic%20skin%20cici.png",
-        "tag": "null"
+        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Basic%20skin%20cici.png"
       },
       {
         "name": "Circus Reverie",
         "script": "230.0",
-        "img": "https://github.com/raflinkk/SC/raw/refs/heads/main/CICI/Cici%20starlight.png",
-        "tag": "null"
+        "img": "https://github.com/raflinkk/SC/raw/refs/heads/main/CICI/Cici%20starlight.png"
+      },
+      {
+        "name": "P.ACE Cici",
+        "script": "251",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077488.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },

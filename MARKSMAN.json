@@ -513,6 +513,12 @@
         "script": "168",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest?cb=20240619172008",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "The Beacon",
+        "script": "190",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077463.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1058,6 +1064,12 @@
         "script": "149",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest?cb=20230805043918",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20210414064523"
+      },
+      {
+        "name": "SkyForce Maverick",
+        "script": "191",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077490.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },

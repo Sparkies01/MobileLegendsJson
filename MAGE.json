@@ -384,6 +384,12 @@
         "name": "Twisted Fairy Tail",
         "script": "164",
         "img": "https://raw.githubusercontent.com/Hiro161123/Mage/main/Vexana%20zenith.png"
+      },
+      {
+        "name": "Daybreak Halo",
+        "script": "277",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077483.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -662,6 +668,12 @@
         "name": "Nature's Harmony",
         "script": "172",
         "img": "https://github.com/Hiro161123/Mage/raw/main/Lunox%20elite.png"
+      },
+      {
+        "name": "Quantum Polarity",
+        "script": "276",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077481.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -796,6 +808,12 @@
         "name": "Jade Blossom",
         "script": "176",
         "img": "https://github.com/lanz132/NEWIMG/raw/main/Kagura%20epic%20-%20blosom.png"
+      },
+      {
+        "name": "Lady Parasol",
+        "script": "274",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077476.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1042,6 +1060,12 @@
         "script": "170",
         "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_valentina.jpg",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/MSC_2022_Skin_Tag.png/revision/latest/thumbnail-down/width/40/height/20?cb=20230915123939"
+      },
+      {
+        "name": "Grand Gala",
+        "script": "273",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077456.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1109,6 +1133,12 @@
         "name": "Emberwisp Mystic",
         "script": "181",
         "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Zhuxin%20starlight.png"
+      },
+      {
+        "name": "P.ACE Zhuxin",
+        "script": "275",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000077458.jpg",
+        "tag": "(No Tags)"
       }
     ]
   }
