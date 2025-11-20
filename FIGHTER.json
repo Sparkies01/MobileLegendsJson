@@ -796,8 +796,7 @@
       {
         "name": "Monkey King",
         "script": "163.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20220525164858",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20220525164858"
       },
       {
         "name": "Rock Star",
@@ -834,6 +833,12 @@
         "script": "169.0",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Queller of Chaos",
+        "script": "253",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089030.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1154,14 +1159,12 @@
       {
         "name": "The Heavenly Fish",
         "script": "123.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349"
       },
       {
         "name": "Death Blow",
         "script": "124.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest?cb=20220525170358"
       },
       {
         "name": "Manny Pacquiao",
@@ -1196,14 +1199,18 @@
       {
         "name": "Terry Bogard",
         "script": "211.0",
-        "img": "https://github.com/Hiro161123/Fighter/raw/main/Paquito%20kof%20'97.png",
-        "tag": "null"
+        "img": "https://github.com/Hiro161123/Fighter/raw/main/Paquito%20kof%20'97.png"
       },
       {
         "name": "Fist of Glory",
         "script": "219.0",
-        "img": "https://github.com/lanz132/NEWIMG/raw/main/Paquito%20FMVP.png",
-        "tag": "null"
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/Paquito%20FMVP.png"
+      },
+      {
+        "name": "Demontech Striker",
+        "script": "255",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main /1000089032jpg",
+        "tag": "(No Tags)"
       }
     ]
   },

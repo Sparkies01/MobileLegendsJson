@@ -661,8 +661,7 @@
       {
         "name": "Warrior Of Dawn",
         "script": "76.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20220525164412",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20220525164412"
       },
       {
         "name": "Lightborn Defender",
@@ -703,8 +702,13 @@
       {
         "name": "Pasha of Justice",
         "script": "118.0",
-        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Tigreal%20special%202024.png",
-        "tag": "null"
+        "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Tigreal%20special%202024.png"
+      },
+      {
+        "name": "Celestial Guardian",
+        "script": "117",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089025.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -819,26 +823,28 @@
       {
         "name": "Rogue Appraiser",
         "script": "94.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20220630130119",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20220630130119"
       },
       {
         "name": "Regal Renegade",
         "script": "95.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero1172-portrait.png/revision/latest?cb=20220807093441",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero1172-portrait.png/revision/latest?cb=20220807093441"
       },
       {
         "name": "Neobeast",
         "script": "103.0",
-        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILVWpFTqEbWRFhLe-kt6pPLvZ05RMl_HUUIGrLL-PKTUfy78wlvbz3ZMU-Kbxa3j5u0Eupo688DiwXt5xKAOjBm-g_O6ogsuhVIjxLPel2SxWxIK7G68-QukHJe-5o1-TypuR5DBtZ4xSquiTq5O01I6IPlDkrmu6tc3h3j-yO7DqGUuEir2KYAHrfC5q/s3124/fredrinn-skin-neobeast.jpg",
-        "tag": "null"
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILVWpFTqEbWRFhLe-kt6pPLvZ05RMl_HUUIGrLL-PKTUfy78wlvbz3ZMU-Kbxa3j5u0Eupo688DiwXt5xKAOjBm-g_O6ogsuhVIjxLPel2SxWxIK7G68-QukHJe-5o1-TypuR5DBtZ4xSquiTq5O01I6IPlDkrmu6tc3h3j-yO7DqGUuEir2KYAHrfC5q/s3124/fredrinn-skin-neobeast.jpg"
       },
       {
         "name": "Sparkle",
         "script": "108.0",
-        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Fredrin%20sparkle.png",
-        "tag": "null"
+        "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Fredrin%20sparkle.png"
+      },
+      {
+        "name": "Royal Marshal",
+        "script": "94.0",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089026.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
