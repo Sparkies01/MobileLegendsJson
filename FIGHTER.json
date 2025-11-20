@@ -1036,14 +1036,12 @@
       {
         "name": "Frozen King",
         "script": "109.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20220525164530",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20220525164530"
       },
       {
         "name": "Deep Sea Monster",
         "script": "110.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest?cb=20220525164540",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest?cb=20220525164540"
       },
       {
         "name": "Warlord",
@@ -1068,6 +1066,12 @@
         "script": "114.0",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258"
+      },
+      {
+        "name": "Lord of Scalding Seas",
+        "script": "254",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089031.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -1209,7 +1213,7 @@
       {
         "name": "Demontech Striker",
         "script": "255",
-        "img": "https://github.com/lanz132/NEW_FILE/raw/main /1000089032jpg",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000089032.jpg",
         "tag": "(No Tags)"
       }
     ]
